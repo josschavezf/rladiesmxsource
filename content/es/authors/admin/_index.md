@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: Comunidad/Community
+role: Comunidad
 
 
 
@@ -45,6 +45,3 @@ A mediados de 2017 el primer capítulo de R-Ladies en México se integró a la c
 
 Este año, deseamos unir fuerzas y estrechar lazos reuniendo a las y los miembros de R-Ladies de todo el país en el Primer Encuentro Anual R-Ladies México.
 
-The first R-Ladies chapter in Mexico born in 2017 as part of the growing up community of R-Ladies Global. Three years later, 7 more chapters have been created and almost 3,000 members have added to this amazing community in our country. 
-
-This year, we want to strengthen efforts among all chapters across the country and bring them together in the First Annual Meeting R-Ladies Mexico.
