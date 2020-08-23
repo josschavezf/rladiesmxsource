@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Joselyn Chávez, Ph.D. Student
+title: Joselyn Chávez, Estudiante de Doctorado
 
 # Username (this should match the folder name)
 authors:
