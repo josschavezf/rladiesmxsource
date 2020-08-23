@@ -37,8 +37,8 @@ email: "joselynchavezf@gmail.com"
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Organizers
+- Organizadoras
 
 ---
 
-I am a Ph.D. Student at IBT-UNAM focused on bioinformatics and gene regulation. I am interested in R package development, expanding R communities and teaching.
+Soy estudiante de Doctorado en el IBT-UNAM, mi proyecto está enfocado en realizar análisis bioinformáticos para el estudio de la regulación génica. Me interesa el desarrollo de paquetes de R, participar en comunidades que promueven el uso de software libre y dar clases de programación.
