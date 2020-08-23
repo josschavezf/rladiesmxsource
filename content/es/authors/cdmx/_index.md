@@ -4,10 +4,10 @@ title: R-Ladies CDMX
 
 # Username (this should match the folder name)
 authors:
-- admin
+- cdmx
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 
 

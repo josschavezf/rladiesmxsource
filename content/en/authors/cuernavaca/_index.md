@@ -4,10 +4,10 @@ title: R-Ladies Cuernavaca
 
 # Username (this should match the folder name)
 authors:
-- admin
+- cuernavaca
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 
 

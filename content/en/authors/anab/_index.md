@@ -4,10 +4,10 @@ title: Ana Beatriz Villaseñor, Ph.D. Student
 
 # Username (this should match the folder name)
 authors:
-- admin
+- anab
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: R-Ladies Querétaro

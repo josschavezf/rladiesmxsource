@@ -4,10 +4,10 @@ title: Joselyn Chávez, Ph.D. Student
 
 # Username (this should match the folder name)
 authors:
-- admin
+- josschavezf
 
 # Is this the primary user of the site?
-superuser: true
+superuser: fallse
 
 # Role/position
 role: R-Ladies Cuernavaca
