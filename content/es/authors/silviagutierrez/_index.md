@@ -25,9 +25,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/silviaegt
-# - icon: twitter
-#   icon_pack: fab
-#  link: https://twitter.com/josschavezf1
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/espejolento
   
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
@@ -44,3 +44,13 @@ user_groups:
 - Organizadoras
 
 ---
+
+Soy Bibliotecaria de Humanidades Digitales en El Colegio de México, mi trabajo está enfocado en dar talleres de programación y uso de software para humanistas y científicas/os sociales. 
+
+Me interesa la divulgación del conocimiento, la lingüística de corpus y dar clases de programación.
+
+Intereses:
+- Divulgación de conocimiento
+- Lingüística de corpus
+- Comunidades de R
+- Enseñanza
