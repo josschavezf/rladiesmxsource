@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Silvia Gutiérrez
+title: Silvia Gutiérrez De la Torre
 
 # Username (this should match the folder name)
 authors:
