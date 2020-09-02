@@ -45,12 +45,12 @@ user_groups:
 
 ---
 
-Soy Bibliotecaria de Humanidades Digitales en El Colegio de México, mi trabajo está enfocado en dar talleres de programación y uso de software para humanistas y científicas/os sociales. 
+I am the Digital Humanities Librarian at El Colegio de México, my work is focused on enabling humanists and social scientists with tools and skill sets in order to use technology to their advantage.
 
-Me interesa la divulgación del conocimiento, la lingüística de corpus y dar clases de programación.
+I am interested in the dissemination of knowledge, corpus linguistics and programming pedagogy.
 
-Intereses:
-- Divulgación de conocimiento
-- Lingüística de corpus
-- Comunidades de R
-- Enseñanza
+Interests: 
+- Knowledge dissemination
+- Corpus linguistics
+- Communities of R
+- Programming pedagogy
