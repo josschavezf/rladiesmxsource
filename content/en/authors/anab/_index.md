@@ -38,10 +38,10 @@ user_groups:
 ---
 
 
-I'm a Ph.D. student at (LIIGH)[https://liigh.unam.mx/], my PI is Alejandra Medina-Rivera.
+I'm a Ph.D. student at [LIIGH](https://liigh.unam.mx/), my PI is Alejandra Medina-Rivera.
 My project focuses on non-commutable lung diseases, such as Chronic Obstructive
 Pulmonary Disease (COPD) and Idiopathic Pulmonary Disease (IPF), with a 
-transcriptomic approach. As part of my Ph.D., we have developed (PulmonDB)[http://pulmondb.liigh.unam.mx/].
+transcriptomic approach. As part of my Ph.D., we have developed [PulmonDB](http://pulmondb.liigh.unam.mx/).
 
 I like to work with R and Python as much as I can. I also enjoy to help other people so they feel more comfortable with working with those languages. 
 
@@ -57,5 +57,5 @@ My interests are:
 
 - Single cell RNA-seq
 
-(More information)[https://anabva.github.io/]
+[More information](https://anabva.github.io/)
 
