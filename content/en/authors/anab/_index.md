@@ -25,7 +25,9 @@ social:
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AnaBetty2304
-  
+- icon: home
+  icon_pack: fas
+  link: https://anabva.github.io/  
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 email: "anabva2304@gmail.com"
@@ -48,13 +50,9 @@ I like to work with R and Python as much as I can. I also enjoy to help other pe
 My interests are:
 
 - Transcriptomics
-
 - Bioinformatics
-
 - R
-
 - Python
-
 - Single cell RNA-seq
 
 [More information](https://anabva.github.io/)

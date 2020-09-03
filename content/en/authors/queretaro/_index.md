@@ -16,14 +16,12 @@ superuser: false
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
+- icon: github
+  icon_pack: fab
+  link: https://github.com/rladiesqro
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RLadies_Qro
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "queretaro@rladies.org"
