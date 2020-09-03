@@ -39,9 +39,9 @@ user_groups:
 
 ---
 
-Soy estudiante de doctorado en (LIIGH) [https://liigh.unam.mx/], mi investigadora principal es Alejandra Medina-Rivera.
+Soy estudiante de doctorado en [LIIGH](https://liigh.unam.mx/), mi investigadora principal es Alejandra Medina-Rivera.
 Mi proyecto se centra en las enfermedades pulmonares no conmutables, como la Obstructiva Crónica Enfermedad Pulmonar (EPOC) y Enfermedad Pulmonar Idiopática (FPI), con un
-enfoque transcriptómico. Como parte de mi doctorado, hemos desarrollado (PulmonDB) [http://pulmondb.liigh.unam.mx/].
+enfoque transcriptómico. Como parte de mi doctorado, hemos desarrollado [PulmonDB](http://pulmondb.liigh.unam.mx/).
 
 Me gusta trabajar con R y Python tanto como puedo. También disfruto ayudar a otras personas para que se sientan más cómodas trabajando con esos idiomas.
 
