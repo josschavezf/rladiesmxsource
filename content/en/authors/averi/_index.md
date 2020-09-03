@@ -40,11 +40,11 @@ user_groups:
 
 ---
 
-Soy asistente de investigación en Nueva York, y recién egresado de la maestría en Diagnostico y Rehabilitación Neuropsicológica de la BUAP. 
+Soy asistente de investigación en Nueva York, y recién egresada de la maestría en Diagnóstico y Rehabilitación Neuropsicológica de la BUAP. 
 
 Me interesa el análisis de datos con R, el uso de la aplicación shiny para implementar experimentos psicológicos para la investigación, y participar en comunidades que promueven el uso de código libre para mejorar la replicabilidad de investigación en psicología.
 
 Intereses:
-* Investigación Neuropsicología
-* Enseñanza
-* Comunidades de R
+- Investigación Neuropsicología
+- Enseñanza
+- Comunidades de R
