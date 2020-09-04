@@ -49,4 +49,15 @@ user_groups:
 
 ---
 
-I am a Ph.D. Student at IBT-UNAM focused on bioinformatics and gene regulation. I am interested in R package development, expanding R communities and teaching.
+I am a Ph.D. Student at [IBT-UNAM](https://ww.ibt.unam.mx) in [Merino's Lab](https://biocomputo.ibt.unam.mx) focused on bioinformatics and gene regulation. 
+
+I am interested in R package development, expanding R communities and teaching.
+
+
+Interests:
+
+- Genomics
+- Bioinformatics
+- Software Development
+- R Communities
+- Teaching
