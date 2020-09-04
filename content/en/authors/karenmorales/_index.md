@@ -24,16 +24,11 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:joselynchavezf@gmail.com".
 - icon: github
   icon_pack: fab
-#  link: https://github.com/josschavezf
+  link: https://github.com/KarenMorales16
 - icon: twitter
   icon_pack: fab
 #  link: https://twitter.com/josschavezf1
   
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: "joselynchavezf@gmail.com"
@@ -44,3 +39,11 @@ user_groups:
 - Organizers
 
 ---
+
+Soy estudiante de Ingeniería en sistemas computacionales con especialidad en base de datos, me encanta el análisis de datos y el desarrollo de software.
+
+Intereses:
+- Tecnología
+- Análisis de datos
+- Comunidad de R
+- Base de datos
