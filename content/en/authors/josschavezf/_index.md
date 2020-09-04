@@ -49,7 +49,7 @@ user_groups:
 
 ---
 
-I am a Ph.D. Student at [IBT-UNAM](https://ww.ibt.unam.mx) in [Merino's Lab](https://biocomputo.ibt.unam.mx) focused on bioinformatics and gene regulation. 
+I am a Ph.D. Student at [IBT-UNAM](https://ww.ibt.unam.mx) in the [Computational Genomics Lab](https://biocomputo.ibt.unam.mx) focused on bioinformatics and gene regulation. 
 
 I am interested in R package development, expanding R communities and teaching.
 

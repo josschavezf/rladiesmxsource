@@ -48,7 +48,7 @@ user_groups:
 
 ---
 
-Soy estudiante de Doctorado en el IBT-UNAM, mi proyecto está enfocado en realizar análisis bioinformáticos para el estudio de la regulación génica. 
+Soy estudiante de Doctorado en el [Laboratorio de Genómica Computacional](https://biocomputo.ibt.unam.mx) del  [IBT-UNAM](https://www.ibt.unam.mx), mi proyecto está enfocado en realizar análisis bioinformáticos para el estudio de la regulación génica. 
 
 Me interesa el desarrollo de paquetes de R, participar en comunidades que promueven el uso de software libre y dar clases de programación.
 
