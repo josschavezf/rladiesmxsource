@@ -38,3 +38,11 @@ user_groups:
 - Organizers
 
 ---
+
+Soy académica en la Facultad de Psicología de la UNAM. Mis líneas de investigación son las neurociencias cognitivas, afectivas y sociales. 
+
+Intereses: 
+- Experimentación cognitiva-conductual
+- Estudios de identidades sociales (e.g. maternidad, LGTBQA)
+- Análisis de datos para la paridad de género
+- Análisis y visualización de datos de imagen por resonancia magnética en R
