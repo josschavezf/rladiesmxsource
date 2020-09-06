@@ -19,9 +19,9 @@ role: R-Ladies Aguascalientes
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "#contact" for contact widget.
 social:
-# - icon: envelope
-#   icon_pack: fas
-#  link: '#contact'  # For a direct email link, use "mailto:joselynchavezf@gmail.com".
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'  # For a direct email link, use "mailto:regimedina19@gmail.com".
 - icon: github
   icon_pack: fab
   link: https://github.com/RMedina19/
@@ -31,7 +31,7 @@ social:
   
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-#email: "joselynchavezf@gmail.com"
+email: "regimedina19@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
@@ -39,4 +39,13 @@ user_groups:
 - Organizadoras
 
 ---
+
+Soy originaria de Aguascalientes y recién egresada de la Licenciatura en Políticas Públicas del CIDE Región Centro. 
+
+Trabajo como científica de datos en el Proyecto de Análisis de Decisiones en Contextos Inciertos [PADeCI](https://padeci.org) y colaboro en el proyecto Stanford-CIDE Coronavirus Simulation Model [SC-COSMO](https://www.sc-cosmo.org). Utilizo R de manera diaria para el análisis de datos, producción de visualizaciones y redacción de documentos académicos. 
+
+Intereses: 
+-	Políticas púbicas 
+-	Equidad de género 
+-	Comunidades de R
 
