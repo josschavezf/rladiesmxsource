@@ -39,6 +39,6 @@
 
   [[en.menu.main]]
     name = "Code of Conduct"
-    url = "https://rladies.org/code-of-conduct/"
+    url = "#CoC"
     weight = 50
 
