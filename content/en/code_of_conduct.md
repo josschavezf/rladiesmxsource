@@ -38,7 +38,7 @@ R-Ladies Mexico prioritizes marginalized people’s safety over privileged peopl
 
 ## REPORTING
 
-If you are being harassed by a member/guest/participant of/at R-Ladies Mexico, notice that someone else is being harassed, or have any other concerns, please contact the Leadership Team via reporting at rladiesmx@gmail.com or by direct message to our organizers Joselyn Chávez or Ana Beartriz Villaseñor Altamirano. Local incidences will be handled by rladiesmx organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
+If you are being harassed by a member/guest/participant of/at R-Ladies Mexico, notice that someone else is being harassed, or have any other concerns, please contact the Leadership Team via reporting at rladiesmx@gmail.com or by direct message to our organizers Joselyn Chávez or Ana Beartriz Villaseñor Altamirano. Local incidences will be handled by R-Ladies MX organisers. If the person who is harassing you is on the team, they will recuse themselves from handling your incident. We will respond as promptly as we can.
 
 This code of conduct applies to R-Ladies Mexico spaces, but if you are being harassed by a member/guest/participant of/at R-Ladies outside our spaces, we still want to know about it. We will take all good-faith reports of harassment by R-Ladies Mexico members, especially the Leadership Team, seriously. This includes harassment outside our spaces and harassment that took place at any point in time. The Leadership Team reserves the right to exclude people from R-Ladies Mexico based on their past behavior, including behavior outside R-Ladies México spaces and behavior towards people who are not in R-ladies Mexico.
 
