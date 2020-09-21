@@ -1,6 +1,5 @@
 ---
 title: "Código de Conducta"
-date: 2020-09-20T00:00:38-05:00
 categories: ["CoC"]
 authors: ["admin"]
 ---
