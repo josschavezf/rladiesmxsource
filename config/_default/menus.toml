@@ -25,6 +25,6 @@
 
 [[main]]
   name = "Código de Conducta"
-  url = "/codigo_de_conducta.md/"
+  url = "/codigo_de_conducta"
   weight = 50
 
