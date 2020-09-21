@@ -39,6 +39,6 @@
 
   [[en.menu.main]]
     name = "Code of Conduct"
-    url = "#CoC"
+    url = "https://github.com/rladiesmxsource/content/en/CoC/code_of_conduct.md/"
     weight = 50
 
