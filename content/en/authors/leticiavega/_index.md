@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Leticia Vega Alvarado, Dra en Ingeniería (Computación), Académica de la UNAM
+title: Leticia Vega Alvarado, Ph.D.
 
 # Username (this should match the folder name)
 authors:
@@ -29,7 +29,7 @@ user_groups:
 
 ---
 
-Soy académica del ICAT - UNAM desde hace 24 años. Mis intereses académicos se enfocan en las áreas de Bioinformática y en particular en el análisis de expresión diferencial. 
+Soy Dra en Ingeniería (Computación), Académica de la UNAMacadémica del ICAT - UNAM desde hace 24 años. Mis intereses académicos se enfocan en las áreas de Bioinformática y en particular en el análisis de expresión diferencial. 
 
 He dado diversos cursos de programación a lo largo de 20 años y soy instructora certificada de por "Software Crapentry", desde 2017. 
 

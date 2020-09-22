@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ana Beatriz Villaseñor, Ph.D. Student
+title: Ana Beatriz Villaseñor
 
 # Username (this should match the folder name)
 authors:
