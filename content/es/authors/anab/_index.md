@@ -21,7 +21,7 @@ role: R-Ladies Querétaro
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:anabva2304@gmail.com".
+  link: "mailto:anabva2304@gmail.com"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/AnaBetty2304
