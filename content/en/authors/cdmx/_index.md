@@ -18,7 +18,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:cdmx@rladies.org".
+  link: "mailto:cdmx@rladies.org"
 - icon: twitter
   icon_pack: fab
   link: https://twitter.com/RLadiesCDMX

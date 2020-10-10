@@ -18,7 +18,7 @@ superuser: false
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:cuernavaca@rladies.org".
+  link: "mailto:cuernavaca@rladies.org".
 - icon: github
   icon_pack: fab
   link: https://github.com/RLadiesCuerna

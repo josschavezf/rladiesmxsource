@@ -21,7 +21,7 @@ role: R-Ladies Aguascalientes
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:regimedina19@gmail.com".
+  link: "mailto:regimedina19@gmail.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/RMedina19/

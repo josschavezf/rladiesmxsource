@@ -21,7 +21,7 @@ role: R-Ladies Cuernavaca
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:joselynchavezf@gmail.com'  # For a direct email link, use "mailto:joselynchavezf@gmail.com".
+  link: 'mailto:joselynchavezf@gmail.com'
 - icon: github
   icon_pack: fab
   link: https://github.com/josschavezf

@@ -21,7 +21,7 @@ role: R-Ladies CDMX
 social:
 - icon: envelope
   icon_pack: fas
-  link: '#contact'  # For a direct email link, use "mailto:teresa.ortiz.mancera@gmail.com".
+  link: "mailto:teresa.ortiz.mancera@gmail.com".
 - icon: home
   icoon_pack: fas
   link: https://tereom.netlify.com/
