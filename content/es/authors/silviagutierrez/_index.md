@@ -21,7 +21,7 @@ role: R-Ladies CDMX
 social:
 - icon: envelope
   icon_pack: fas
-  link: "mailto:silviaegt@gmail.com".
+  link: "mailto:silviaegt@gmail.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/silviaegt
