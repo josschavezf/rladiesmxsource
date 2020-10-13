@@ -20,7 +20,7 @@ role: R-Ladies CDMX
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:mcarmonabaez@gmail.com'
+  link: "mailto:mcarmonabaez@gmail.com"
 - icon: github
   icon_pack: fab
   link: https://github.com/mcarmonabaez 
@@ -35,7 +35,7 @@ social:
 #   link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
- email: "mcarmonabaez@gmail.com"
+email: "mcarmonabaez@gmail.com"
 
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
