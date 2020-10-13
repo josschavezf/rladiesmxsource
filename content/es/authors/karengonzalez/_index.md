@@ -44,7 +44,7 @@ user_groups:
 
 ---
 
-Soy Sr. Data scientist en una empresa de investigación de mercado llamada [Kantar](https://www.kantarworldpanel.com/mx/Sobre-Nosotros-). 
+Soy Sr. Data scientist en una empresa de investigación de mercado llamada [Kantar]( https://www.kantar.com/about). 
 
 Mi trabajo está enfocado en la creación y desarrollo de soluciones para ayudar a las empresas a mejorar sus estrategias de mercado.
 
