@@ -45,7 +45,7 @@ social:
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organizadoras
-- rladiesmx2020
+- Comité organizador 2020
 ---
 
 Soy académica en la Facultad de Psicología de la UNAM. Mis líneas de investigación son las neurociencias cognitivas, afectivas y sociales. 

@@ -37,7 +37,7 @@ email: "regimedina19@gmail.com"
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
 - Organizadoras
-- rladiesmx2020
+- Comité organizador 2020
 
 ---
 
