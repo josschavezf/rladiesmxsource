@@ -13,7 +13,7 @@ subtitle = ""
 [content]
   # Choose which groups/teams of users to display.
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
-  user_groups = ["Chapters","Organizers"]
+  user_groups = ["Chapters","Organizers","Organizers of RLadiesMX 2020"]
 
 [design]
   # Show user's social networking links? (true/false)
