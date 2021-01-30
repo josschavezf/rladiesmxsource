@@ -14,7 +14,7 @@ COVID-19 hizo que el 2020 fuera difícil para todos, vivimos en una pandemia glo
 
 Luego de unos meses en cuarentena, varios capítulos como R-Ladies [Querétaro](https://rladiesmx.netlify.app/author/r-ladies-queretaro/), [Ciudad de México](https://rladiesmx.netlify.app/author/r-ladies-cdmx/), [Cuernavaca](https://rladiesmx.netlify.app/author/r-ladies-cuernavaca/) y [Xalapa](https://rladiesmx.netlify.app/author/r-ladies-xalapa/) organizaron reuniones virtuales. Sin embargo, queríamos ir más allá de la organización individual y encontrar una manera de unir a R-Ladies de todo el país a través de plataformas virtuales. La idea del encuentro nacional fue de múltiples organizadoras de los capítulos de R-Ladies Querétaro y Cuernavaca quienes comenzaron a organizar la [primera reunión virtual de R-Ladies México](https://rladiesmx.netlify.app/talk/2020-08-23-encuentro2020/) con el apoyo de miembros de la Comunidad de Desarrolladores de Software para Bioinformática [(CDSB)](https://comunidadbioinfo.github.io/es/), el encuentro se convirtió en una realidad.
 
-[<img src= "https://github.com/RladiesMX/rladiesmxsource/blob/master/assets/images/RMx-allisonhorst.pdf?raw=true" /> ](https://github.com/allisonhorst/stats-illustrations)
+[<img src= "https://github.com/RladiesMX/rladiesmxsource/blob/master/assets/images/rmxallisonhorst.png?raw=true" /> ](https://github.com/allisonhorst/stats-illustrations)
 
 ## Cocinemos y preparemos R-LadiesMX
 
