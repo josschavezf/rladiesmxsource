@@ -79,17 +79,20 @@ Justo antes de nuestros comentarios finales, [Karen Morales](https://rladiesmx.n
 
 La organización de esta reunión fue una experiencia emocionante y enriquecedora que nos motiva a hacer de la reunión de R-Ladies México un evento anual. Esperamos que esta primera reunión de R-LadiesMX inspire a otras mujeres a unirse a la hermosa comunidad de R-Ladies que hay en México y el mundo.
 
-Nos gustaría agradecer a las siguientes personas/patrocinadores:
+### Nos gustaría agradecer a las siguientes personas/patrocinadores:
 
-Nos sentimos muy afortunados de tener a [The Geek Squirrell](https://www.thegeeksquirrel.com/) como patrocinador, quien amablemente donó dos tazas increíbles para un sorteo. Cualquier participante en el evento podía participar tuiteando quién era su programadora favorita con el hashtag #R-LadiesMX y etiquetando a [@TheGeekSquirrel](https://twitter.com/TheGeekSquirrel). Los ganadores se anunciaron a través de Twitter al día siguiente.
+* Nos sentimos muy afortunadas de tener a [The Geek Squirrell](https://www.thegeeksquirrel.com/) como patrocinador, quien amablemente donó dos tazas increíbles para un sorteo. Cualquier participante en el evento podía participar tuiteando quién era su programadora favorita con el hashtag #R-LadiesMX y etiquetando a [@TheGeekSquirrel](https://twitter.com/TheGeekSquirrel). Los ganadores se anunciaron a través de Twitter al día siguiente.
 
 
  {{< tweet 1309614734371467264 >}}
 
  {{< tweet 1311781843302191105 >}}
 
+* Agradecemos a la [comunidad CDSB](https://comunidadbioinfo.github.io/es), quien hospeda nuestro espacio de Slack para la comunicación entre los miembros de R-LadiesMX y nos apoyó durante la organización y realización de este evento.
 
-Por último, pero no menos importante, queremos dar un agradecimiento especial y lleno de gratitud a [Leonardo Collado-Torres](http://lcolladotor.github.io), quien siempre ha sido un gran aliado y partidario de R-LadiesMX. 
+[<img src="https://github.com/ComunidadBioInfo/cdsbsource/blob/master/assets/images/logo.png?raw=true" />](http://comunidadbioinfo.github.io/)
+
+* Por último, pero no menos importante, queremos dar un agradecimiento especial y lleno de gratitud a [Leonardo Collado-Torres](http://lcolladotor.github.io), quien siempre ha sido un gran aliado y partidario de R-LadiesMX. 
 
 {{< tweet 1311781843302191105 >}}
 
@@ -97,4 +100,4 @@ Por último, pero no menos importante, queremos dar un agradecimiento especial y
 
 {{< tweet 1309302205837643780 >}}
 
-Agradecemos a todos y cada uno de nuestros asistentes y esperamos que se unan a nosotros en futuros eventos de R-Ladies en todo México en los próximos meses. Si tienes alguna pregunta o deseas obtener más información sobre R-LadiesMx o más información sobre cómo comenzar tu propio capítulo, comunícate a los correos: rladiesmx@gmail.com o info@rladies.org
+* Agradecemos a todos y cada uno de nuestros asistentes y esperamos que se unan a nosotros en futuros eventos de R-Ladies en todo México en los próximos meses. Si tienes alguna pregunta o deseas obtener más información sobre R-LadiesMx o más información sobre cómo comenzar tu propio capítulo, comunícate a los correos: rladiesmx@gmail.com o info@rladies.org

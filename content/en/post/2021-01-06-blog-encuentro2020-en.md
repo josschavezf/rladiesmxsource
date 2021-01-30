@@ -74,16 +74,21 @@ We hope that this portion of the meeting provided the confidence and inspiration
 <img src= "https://github.com/RladiesMX/rladiesmxsource/blob/master/assets/images/rladiesmx2020_3.png?raw=true" />
 
 Organizing this meeting was an exciting and empowering experience that motivates us to make R-Ladies Mexico meeting an annual event. We hope that this R-LadiesMX meeting inspires other women to join the beautiful community of R-Ladies in Mexico and the world. 
-We would like to thank the following individuals/sponsors: 
 
-We felt so lucky to have [The Geek Squirrell](https://www.thegeeksquirrel.com/)  as a sponsor, who kindly donated two amazing cups for a giveaway. Any participant in the event was welcome to participate by tweeting who their favorite programmer was with the hashtag #R-LadiesMX and tagging [@TheGeekSquirrel](https://twitter.com/TheGeekSquirrel). Winners were announced via twitter the following day.
+### We would like to thank the following individuals/sponsors: 
+
+* We felt so lucky to have [The Geek Squirrell](https://www.thegeeksquirrel.com/)  as a sponsor, who kindly donated two amazing cups for a giveaway. Any participant in the event was welcome to participate by tweeting who their favorite programmer was with the hashtag #R-LadiesMX and tagging [@TheGeekSquirrel](https://twitter.com/TheGeekSquirrel). Winners were announced via twitter the following day.
   
  {{< tweet 1309614734371467264 >}}
  
  {{< tweet 1311781843302191105 >}}
 
+* Thanks to the [CDSB Community](https://comunidadbioinfo.github.io), who hosts our Slack space for communication among R-LadiesMX members and its support during the organization of this event.
 
-Last but not least, we want to give a special thanks and owe a debt of gratitude to [Leonardo Collado-Torres](http://lcolladotor.github.io), who has always been a great ally and supporter of R-LadiesMX.
+[<img src="https://github.com/ComunidadBioInfo/cdsbsource/blob/master/assets/images/logo.png?raw=true" />](http://comunidadbioinfo.github.io/)
+
+
+* Finally but not less important, we want to give a special thanks and owe a debt of gratitude to [Leonardo Collado-Torres](http://lcolladotor.github.io), who has always been a great ally and supporter of R-LadiesMX.
  
 {{< tweet 1311781843302191105 >}}
 
@@ -91,4 +96,4 @@ He analyzed our tweets during the R-LadiesMX event and generously helped us with
 
 {{< tweet 1309302205837643780 >}}
 
-We thank each and every one of our attendees and hope that you will join us in future R-Ladies events across Mexico in the coming months! If you have any questions or would like more information about R-LadiesMx or further information about starting your own chapter please contact: rladiesmx@gmail.com or  info@rladies.org 
+* We thank each and every one of our attendees and hope that you will join us in future R-Ladies events across Mexico in the coming months! If you have any questions or would like more information about R-LadiesMx or further information about starting your own chapter please contact: rladiesmx@gmail.com or  info@rladies.org 
