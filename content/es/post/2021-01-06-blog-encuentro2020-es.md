@@ -94,8 +94,6 @@ La organización de esta reunión fue una experiencia emocionante y enriquecedor
 
 * Por último, pero no menos importante, queremos dar un agradecimiento especial y lleno de gratitud a [Leonardo Collado-Torres](http://lcolladotor.github.io), quien siempre ha sido un gran aliado y partidario de R-LadiesMX. 
 
-{{< tweet 1311781843302191105 >}}
-
 Él analizó nuestros tweets durante el evento R-LadiesMX y nos ayudó generosamente con la organización. También reconocemos que no está solo, muchos otros hombres nos han apoyado y estamos muy agradecidos por su ayuda y contribuciones a la comunidad.
 
 {{< tweet 1309302205837643780 >}}

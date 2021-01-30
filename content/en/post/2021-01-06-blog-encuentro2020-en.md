@@ -89,8 +89,6 @@ Organizing this meeting was an exciting and empowering experience that motivates
 
 
 * Finally but not less important, we want to give a special thanks and owe a debt of gratitude to [Leonardo Collado-Torres](http://lcolladotor.github.io), who has always been a great ally and supporter of R-LadiesMX.
- 
-{{< tweet 1311781843302191105 >}}
 
 He analyzed our tweets during the R-LadiesMX event and generously helped us with the organization. We also acknowledge that he is not alone, many other men have supported us and we are very appreciative of their help and contributions to the community. 
 
