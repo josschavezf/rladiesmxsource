@@ -1,7 +1,7 @@
 ---
 title: "First Annual Meeting R-Ladies Mexico"
 date: 2020-08-23T01:52:38-05:00
-categories: ["Events"]
+categories: ["Posts"]
 authors: ["Ana B Villaseñor Altamirano, Averi Giudicessi and Joselyn Chávez"]
 ---
 
